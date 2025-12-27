@@ -1,1 +1,1 @@
-Practica de python para el analisis de datos
+Práctica de python para el analisis de datos
